@@ -1,0 +1,48 @@
+html,
+body {
+    height: 100%;
+    line-height: 140%;
+    font-size: 18px;
+    background-color: #FFFFFF;
+    font-family: 'Didact Gothic', sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 30px;
+    color: #69FFB4;
+    letter-spacing: 0.1em ;
+    margin: 17% 0px 18px 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.theme {
+    margin: 12px auto 18px auto;
+    background:transparent;
+    color: #6969FF;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+label {
+    margin-bottom: 12px;
+}
+
+select {
+    padding: 8px 0px;
+    background:transparent;
+    color: #6969FF;
+    border: solid 2px;
+    border-radius: 8px;
+    width: 100%;
+    text-align: center;
+}
+

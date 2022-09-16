@@ -1,21 +1,21 @@
-# Theme Change exercise
+# Theme change exercise
 
-Exercise : images in adaptive layout.
+Page with possibility to choose a color-theme from select options
+
+## Result
+<br><br>
+<img width="30%" alt="screen capture" src="../main/assets/img/captureweb_dark.jpeg">
+<img width="30%" alt="screen capture" src="../main/assets/img/captureweb_light.jpeg">
+<img width="30%" alt="screen capture" src="../main/assets/img/captureweb_pink.jpeg">
+<br><br>
 
 ## Demo
 [Theme-change-exercise]
 
-<br><br>
-<img width="30%" alt="screen capture" src="../main/assets/img/captureweb_light.jpg">
-<img width="30%" alt="screen capture" src="../main/assets/img/captureweb_dark.jpg">
-<img width="30%" alt="screen capture" src="../main/assets/img/captureweb_pink.jpg">
-<br><br>
-
 ## Tech stack
-
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; HTML5<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Adaptive layout<br>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <br><br> 
 \* _Week 15 Exercise for [ITGirlSchool]_ 

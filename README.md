@@ -1,4 +1,4 @@
-# Theme change exercise :rainbow: 
+# Theme change exercise
 
 Page with possibility to choose a color-theme from select options
 

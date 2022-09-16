@@ -1,6 +1,6 @@
-# Theme change exercise
+# Theme change exercise 
 
-Page with possibility to choose a color-theme from select options
+Page with possibility to choose a color-theme from select options :rainbow:
 
 ## Result
 <br><br>

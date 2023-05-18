@@ -1,6 +1,6 @@
 # Theme change exercise
 
-Page with possibility to choose a color-theme from select options
+Exercise on color-theme change with select options
 
 ## Result
 <br><br>

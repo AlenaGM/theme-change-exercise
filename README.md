@@ -1,6 +1,6 @@
 # Theme change exercise
 
-A webpage that offers the option to select different color themes using a dropdown menu. Exercise at [ITGirlSchool]
+A webpage that offers the option to select different color themes using a dropdown menu. Exercise at [ITGirlSchool].
 
 ## Result
 

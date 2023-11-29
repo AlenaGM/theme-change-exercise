@@ -1,4 +1,4 @@
-# Theme change exercise
+# Color theme-change exercise
 
 A webpage that offers the option to select different color themes using a dropdown menu. Exercise at [ITGirlSchool].
 
@@ -12,7 +12,7 @@ A webpage that offers the option to select different color themes using a dropdo
 
 ## Demo
 
-[Theme-change-exercise]
+[Theme-change exercise]
 
 ## Tech stack
 
@@ -23,4 +23,4 @@ A webpage that offers the option to select different color themes using a dropdo
 <br><br> \* _Week 15 Exercise at [ITGirlSchool]_
 
 [ITGirlSchool]: https://itgirlschool.com/en
-[Theme-change-exercise]: https://alenagm.github.io/Theme-change-exercise/
+[Theme-change exercise]: https://alenagm.github.io/theme-change-exercise/
